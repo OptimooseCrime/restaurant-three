@@ -1,0 +1,166 @@
+html {
+  align-items:center;
+  background-color: brown;
+
+}
+body{
+  border: 35px;
+  align-items: center;
+  width: 90%;
+  height: 90%;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: black;
+  height: 150px;
+  width: 1384px;
+  color: yellow;
+  padding: 20px;
+  align-content: center;
+  margin-left: 50px;
+
+
+}
+.nav-items{
+display: flex;
+text-align: center;
+margin-top: 50px;
+
+}
+.list-items {
+  display: flex;
+  align-content: space-between;
+
+}
+
+.main-section{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+a{
+  color: green;
+  font-family: 'Anton', sans-serif;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.hero-image {
+  width: 1425px;
+  margin: 50px;
+}
+
+.centered{
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 20px;
+
+  }
+
+
+.welcome{
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  color: maroon;
+  outline-color: red;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.digits {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.5);
+
+}
+
+.brand {
+  font-family: 'Bungee', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+.food-one {
+  float: left;
+  font-size: 25px;
+  padding: 50px;
+}
+
+.food-two {
+  float: right;
+  font-size: 25px;
+  padding: 50px;
+}
+.food-item {
+  font-family: 'Anton', sans-serif;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  height: 150px;
+  width: 1425px;
+  color: yellow;
+  margin-left: 50px;
+
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Anton', sans-serif;
+  color: white;
+  margin-left: 50px;
+
+
+
+
+
+}
+.about-us {
+  width: 33%;
+}
+.contact {
+  margin-right: 100px;
+}
+.social {
+
+
+
+}
+
+.banner {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px
+}
+
+.banner img{
+  height: 175px;
+  width: 237px;
+
+}
+.soc-buttons img {
+  width: 100px;
+}
+footer .soc-buttons {
+  display: flex;
+  width: 50px;
+  margin: 20px 0 0 550px;
+
+}
+.copyright-shit {
+  margin-right: -50px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
