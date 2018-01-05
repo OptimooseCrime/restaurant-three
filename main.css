@@ -108,8 +108,9 @@ a{
 footer {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   background-color: black;
-  height: 150px;
+  height: 125px;
   width: 1425px;
   color: yellow;
   margin-left: 50px;
@@ -131,9 +132,10 @@ footer {
   width: 33%;
 }
 .contact {
-  margin-right: 100px;
+  margin-right: 125px;
 }
 .social {
+  margin-right: -50px;
 
 
 
@@ -147,20 +149,21 @@ footer {
 
 .banner img{
   height: 175px;
-  width: 237px;
+  width: 238px;
 
 }
 .soc-buttons img {
-  width: 100px;
+  height: 100px;
 }
-footer .soc-buttons {
-  display: flex;
-  width: 50px;
-  margin: 20px 0 0 550px;
+.footer-buttons img {
 
+  margin-top: 50px;
+  margin-left: 50px;
+  height: 50px;
 }
 .copyright-shit {
   margin-right: -50px;
   margin-top: 50px;
   margin-left: 20px;
+  font-size: 25px;
 }
