@@ -110,7 +110,7 @@ footer {
   flex-direction: row;
   justify-content: space-between;
   background-color: black;
-  height: 125px;
+  height: 80px;
   width: 1425px;
   color: yellow;
   margin-left: 50px;
@@ -157,13 +157,13 @@ footer {
 }
 .footer-buttons img {
 
-  margin-top: 50px;
+  margin-top: 15px;
   margin-left: 50px;
   height: 50px;
 }
 .copyright-shit {
   margin-right: -50px;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-left: 20px;
   font-size: 25px;
 }
