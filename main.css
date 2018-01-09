@@ -3,12 +3,14 @@ html {
   background-color: brown;
 
 }
+
 body{
   border: 35px;
   align-items: center;
   width: 90%;
   height: 90%;
 }
+
 header {
   display: flex;
   flex-direction: row;
@@ -20,19 +22,17 @@ header {
   padding: 20px;
   align-content: center;
   margin-left: 50px;
-
-
 }
+
 .nav-items{
 display: flex;
 text-align: center;
 margin-top: 50px;
-
 }
+
 .list-items {
   display: flex;
   align-content: space-between;
-
 }
 
 .main-section{
@@ -40,6 +40,7 @@ margin-top: 50px;
   text-align: center;
   color: black;
 }
+
 a{
   color: green;
   font-family: 'Anton', sans-serif;
@@ -59,9 +60,7 @@ a{
   transform: translate(-50%, -50%);
   color: white;
   padding: 20px;
-
   }
-
 
 .welcome{
   position: absolute;
@@ -102,9 +101,11 @@ a{
   font-size: 25px;
   padding: 50px;
 }
+
 .food-item {
   font-family: 'Anton', sans-serif;
 }
+
 footer {
   display: flex;
   flex-direction: row;
@@ -114,31 +115,26 @@ footer {
   width: 1425px;
   color: yellow;
   margin-left: 50px;
-
 }
+
 .info {
   display: flex;
   justify-content: space-between;
   font-family: 'Anton', sans-serif;
   color: white;
   margin-left: 50px;
-
-
-
-
-
 }
+
 .about-us {
   width: 33%;
 }
+
 .contact {
   margin-right: 125px;
 }
+
 .social {
   margin-right: -50px;
-
-
-
 }
 
 .banner {
@@ -150,17 +146,18 @@ footer {
 .banner img{
   height: 175px;
   width: 238px;
-
 }
+
 .soc-buttons img {
   height: 100px;
 }
-.footer-buttons img {
 
+.footer-buttons img {
   margin-top: 15px;
   margin-left: 50px;
   height: 50px;
 }
+
 .copyright-shit {
   margin-right: -50px;
   margin-top: 25px;
